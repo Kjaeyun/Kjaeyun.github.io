@@ -116,11 +116,11 @@ author:
   avatar           : # path of avatar image, e.g. "https://avatars3.githubusercontent.com/u/53737020? s=400&u=3bb74d288e4419c519140331793996e26bd1eceb&v=4"
   bio              : "기억보다는 기록을"
   location         : "Korea"
-  email            : "kkop265@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:kkop265@gmail.com
+      # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
