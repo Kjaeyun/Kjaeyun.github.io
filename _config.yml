@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -18,6 +18,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko"
 title                    : "J lab"
 title_separator          : "-"
+locale                   : "ko"
+title                    : "J lab"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "J lab"
+description              : "Project Records, CS Summary, ML Study"
+url                      : "https://kimjaeyun-504.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "J lab"
 description              : "Project Records, CS Summary, ML Study"
@@ -111,11 +119,11 @@ author:
   avatar           : # path of avatar image, e.g. "https://avatars3.githubusercontent.com/u/53737020?s=400&u=3bb74d288e4419c519140331793996e26bd1eceb&v=4"
   bio              : "기억보다는 기록을"
   location         : "Korea"
-  email            :
+  email            : "kkop265@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: kkop265@gmail.com
+      # url: kkop265@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +138,7 @@ author:
       url: "https://github.com/KimJaeYun-504"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/d_jjyy/?hl=ko"
 
 # Site Footer
 footer:
