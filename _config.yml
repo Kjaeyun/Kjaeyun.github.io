@@ -23,11 +23,6 @@ name                     : "J PAGE"
 description              : "Project Records, CS Summary, ML Study"
 url                      : "https://kimjaeyun-504.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "J LAB"
-description              : "Project Records, CS Summary, ML Study"
-url                      : "https://kimjaeyun-504.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KimJaeYun-504/kimjaeyun-504.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -114,13 +109,13 @@ analytics:
 author:
   name             : "J Y"
   avatar           : "https://avatars3.githubusercontent.com/u/53737020?s=400&u=3bb74d288e4419c519140331793996e26bd1eceb&v=4"
-  bio              : "기억보다는 기록을"
+  bio              : "기억보다는 **기록**을"
   location         : "Repulic of Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: 
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
