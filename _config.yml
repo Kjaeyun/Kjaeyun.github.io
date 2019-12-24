@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "J PAGE"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Project Records, CS Summary, ML Study"
 name                     : "J PAGE"
 description              : "Project Records, CS Summary, ML Study"
 url                      : "https://kimjaeyun-504.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KimJaeYun-504/kimjaeyun-504.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://avatars3.githubusercontent.com/u/53737020?s=400&u=d34551a3a8c85d59f04fd06cdd57d61f7349d0bc&v=4"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
