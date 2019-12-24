@@ -17,5 +17,3 @@ tags:
 <li>마이크로비트를 흔들면 멈춤</li>
 
 ![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg)
-
-![Unsplash image9 ]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg)
