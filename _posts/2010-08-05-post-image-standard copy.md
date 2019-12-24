@@ -14,7 +14,7 @@ Standard image with no width modifier classes applied.
 **HTML:**
 
 ```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg" alt="">{% endraw %}
 ```
 
 **or Kramdown:**
