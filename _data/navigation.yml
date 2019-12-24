@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Archive"
-    url: /year-archive/
-  - title: "tag"
+  - title: "Posts"
+    url: /year-posts/
+  - title: "Tags"
     url: /tags/
   - title: "Categories"
     url: /categories/
