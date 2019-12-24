@@ -25,7 +25,7 @@ url                      : "https://kimjaeyun-504.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KimJaeYun-504/kimjaeyun-504.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://avatars3.githubusercontent.com/u/53737020?s=400&u=d34551a3a8c85d59f04fd06cdd57d61f7349d0bc&v=4"
+logo                     : # "https://avatars3.githubusercontent.com/u/53737020?s=400&u=d34551a3a8c85d59f04fd06cdd57d61f7349d0bc&v=4"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
