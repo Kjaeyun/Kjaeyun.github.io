@@ -8,7 +8,7 @@ tags:
 
 ## 개요
 <li>Microbit를 이용한 원격 조종 자동차 제작</li>
-
+<br>
 ## 설계
 <li>송신 마이크로비트의 A를 누르면 우회전</li>
 <li>B를 누르면 좌회전</li>
@@ -51,6 +51,7 @@ input.onGesture(Gesture.Shake, function () {
 })
 radio.setGroup(1)
 ```
+<br>
 ## 사진
 ###### Car
 ![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg)
