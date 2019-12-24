@@ -12,7 +12,4 @@ tags:
 ######<li>송신 마이크로비트의 A를 누르면 우회전, B를 누르면 좌회전, A, B 둘다 누르면 직진, 마이크로비트를 흔들면 멈추게끔 설계
 ######<li>
 
-![car.jpg](\Blog\image\microbit_car\car.jpg)
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg){% endraw %}
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg" alt="">{% endraw %}
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg" alt="" class="full">{% endraw %}
+![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg)
