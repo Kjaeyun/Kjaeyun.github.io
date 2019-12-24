@@ -14,17 +14,6 @@ tags:
 <li>B를 누르면 좌회전</li>
 <li>동시에 A, B를 누르면 전진</li>
 <li>마이크로비트를 흔들면 멈춤</li>
-## 
-
-###### Car
-![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg)
-<br><br>
-###### Receiver microbit
-![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receive_microbit.jpg)
-<br><br>
-###### Sender microbit
-![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender_microbit.jpg)
-<br>
 <br>
 ## 블럭 코딩
 ##### 1. Receiver microbit
@@ -62,4 +51,13 @@ input.onGesture(Gesture.Shake, function () {
 })
 radio.setGroup(1)
 ```
+## 사진
+###### Car
+![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg)
+<br><br>
+###### Receiver microbit
+![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receive_microbit.jpg)
+<br><br>
+###### Sender microbit
+![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender_microbit.jpg)
 
