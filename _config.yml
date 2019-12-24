@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "J PAGE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "J lab"
+name                     : "J PAGE"
 description              : "Project Records, CS Summary, ML Study"
 url                      : "https://kimjaeyun-504.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
