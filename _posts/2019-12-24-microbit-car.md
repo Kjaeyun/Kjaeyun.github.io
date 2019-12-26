@@ -6,9 +6,14 @@ tags:
   - 임베디드
 ---
 
+<<<<<<< HEAD:_posts/2019-12-24-Project-Records.md
 ## 개요
 <li>Microbit를 이용한 원격 조종 자동차 제작</li>
 <br>
+=======
+Microbit를 이용한 원격 조종 자동차 제작
+
+>>>>>>> 89e0f8a5ffcb5d4b0e5fe37eab00c9c608fa14a9:_posts/2019-12-24-microbit-car.md
 ## 설계
 <li>송신 마이크로비트의 A를 누르면 우회전</li>
 <li>B를 누르면 좌회전</li>
