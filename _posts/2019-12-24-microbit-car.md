@@ -54,11 +54,11 @@ radio.setGroup(1)
 <br>
 ## 사진
 ###### Car
-![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg)
+![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg){: width="100%" height="100%"}
 <br><br>
 ###### Receiver microbit
-![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receive_microbit.jpg)
+![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receive_microbit.jpg){: width="100%" height="100%"}
 <br><br>
 ###### Sender microbit
-![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender_microbit.jpg)
+![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender_microbit.jpg){: width="100%" height="100%"}
 
