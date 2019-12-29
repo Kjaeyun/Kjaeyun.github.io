@@ -3,7 +3,7 @@ title: "Microbit Car"
 categories:
   - Project
 tags:
-  - 임베디드
+  - Embedded
 ---
 
 ## 개요
