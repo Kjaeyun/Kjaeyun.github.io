@@ -3,8 +3,6 @@ title: "Microbit Car"
 related: true
 categories:
   - Project
-tags:
-  - Embedded
 ---
 
 ## 개요
@@ -17,8 +15,9 @@ Microbit를 이용한 원격 조종 자동차 제작
 <li>마이크로비트를 흔들면 멈춤</li>
 <br>
 ## 블럭 코딩
-##### 1. Receiver microbit
+#### 1. Receiver microbit
 ![receiver]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receiver.jpg)
+###### javascript
 ```javascript
 radio.onReceivedNumber(function (receivedNumber) {
     if (receivedNumber == 1) {
@@ -34,9 +33,9 @@ radio.onReceivedNumber(function (receivedNumber) {
 radio.setGroup(1)
 ```
 <br><br>
-##### 2. Sender microbit
+#### 2. Sender microbit
 ![sender]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender.jpg)
-###### javascript
+##### javascript
 ```javascript
 input.onButtonPressed(Button.A, function () {
     radio.sendNumber(1)
@@ -54,12 +53,12 @@ radio.setGroup(1)
 ```
 <br>
 ## 사진
-###### Car
+#### Car
 ![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg){: width="100%" height="100%"}
 <br><br>
-###### Receiver microbit
+#### Receiver microbit
 ![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receive_microbit.jpg){: width="100%" height="100%"}
 <br><br>
-###### Sender microbit
+#### Sender microbit
 ![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender_microbit.jpg){: width="100%" height="100%"}
 
