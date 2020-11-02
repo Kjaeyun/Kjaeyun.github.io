@@ -66,4 +66,4 @@ radio.setGroup(1)
 ```
 <br>
 ## 사진
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
