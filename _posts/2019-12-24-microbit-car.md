@@ -54,10 +54,7 @@ radio.setGroup(1)
 <br>
 ## 사진
 #### Car
-<--
-![car]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg){: width="100%" height="100%"}
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg" alt="">
--->
 <br><br>
 #### Receiver microbit
 ![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receive_microbit.jpg){: width="100%" height="100%"}
