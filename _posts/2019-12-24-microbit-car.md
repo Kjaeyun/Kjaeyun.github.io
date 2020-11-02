@@ -29,7 +29,7 @@ Microbit를 이용한 원격 조종 자동차 제작
 <br>
 ## 블럭 코딩
 #### 1. Receiver microbit
-![receiver]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/receiver.jpg)
+<img src="/assets/images/microbit_car/receiver.jpg" width="300" height="300">
 ![receiver]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/receiver.jpg)
 ###### javascript
 ```javascript
@@ -48,7 +48,7 @@ radio.setGroup(1)
 ```
 <br><br>
 #### 2. Sender microbit
-![sender]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/sender.jpg)
+<img src="/assets/images/microbit_car/sender.jpg" width="300" height="300">
 ![sender]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/sender.jpg)
 ##### javascript
 ```javascript
