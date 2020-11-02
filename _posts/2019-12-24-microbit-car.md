@@ -57,8 +57,8 @@ radio.setGroup(1)
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg" alt="">
 <br><br>
 #### Receiver microbit
-![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receive_microbit.jpg){: width="100%" height="100%"}
+![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/receive_microbit.jpg){: width="100%" height="100%"}
 <br><br>
 #### Sender microbit
-![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender_microbit.jpg){: width="100%" height="100%"}
+![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/sender_microbit.jpg){: width="100%" height="100%"}
 
