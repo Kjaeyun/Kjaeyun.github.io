@@ -23,7 +23,7 @@ name                     : "J PAGE"
 #description              : # "Project Records, CS, ML Study"
 url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Kjaeyun/kjaeyun.github.io"
+repository               : "Kjaeyun/Kjaeyun.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "https://avatars3.githubusercontent.com/u/53737020?s=400&u=d34551a3a8c85d59f04fd06cdd57d61f7349d0bc&v=4"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
