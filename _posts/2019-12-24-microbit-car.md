@@ -16,7 +16,7 @@ Microbit를 이용한 원격 조종 자동차 제작
 <br>
 ## 블럭 코딩
 #### 1. Receiver microbit
-![receiver]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Receiver.jpg)
+![receiver]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/receiver.jpg)
 ###### javascript
 ```javascript
 radio.onReceivedNumber(function (receivedNumber) {
@@ -34,7 +34,7 @@ radio.setGroup(1)
 ```
 <br><br>
 #### 2. Sender microbit
-![sender]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/Sender.jpg)
+![sender]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/sender.jpg)
 ##### javascript
 ```javascript
 input.onButtonPressed(Button.A, function () {
@@ -53,12 +53,16 @@ radio.setGroup(1)
 ```
 <br>
 ## 사진
-#### Car
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/car.jpg" alt="">
-<br><br>
-#### Receiver microbit
-![receiver_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/receive_microbit.jpg){: width="100%" height="100%"}
-<br><br>
-#### Sender microbit
-![sender_microbit]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/sender_microbit.jpg){: width="100%" height="100%"}
-
+gallery:
+  - url: /assets/images/microbit_car/car.jpg
+    image_path: /assets/images/microbit_car/car.jpg
+    alt: "car"
+    title: "car"
+  - url: /assets/images/microbit_car/receive_microbit.jpg
+    image_path: /assets/images/microbit_car/receive_microbit.jpg
+    alt: "receiver_microbit"
+    title: "receiver_microbit"
+  - url: /assets/images/microbit_car/receive_microbit.jpg
+    image_path: /assets/images/microbit_car/receive_microbit.jpg
+    alt: "sender_microbit"
+    title: "sender_microbit"
