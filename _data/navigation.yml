@@ -2,8 +2,6 @@
 main:
   - title: "Posts"
     url: /year-posts/
-  - title: "Tags"
-    url: /tags/
   - title: "Categories"
     url: /categories/
   # - title: "Sample Collections"
