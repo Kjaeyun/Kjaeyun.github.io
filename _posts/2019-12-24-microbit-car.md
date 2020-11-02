@@ -48,7 +48,7 @@ radio.setGroup(1)
 ```
 <br><br>
 #### 2. Sender microbit
-<img src="/assets/images/microbit_car/sender.jpg" width="300" height="300">
+<img src="/assets/images/microbit_car/sender.jpg">
 ![sender]({{ site.url }}{{ site.baseurl }}/assets/images/microbit_car/sender.jpg)
 ##### javascript
 ```javascript
