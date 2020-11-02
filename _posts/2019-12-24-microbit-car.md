@@ -3,6 +3,19 @@ title: "Microbit Car"
 related: true
 categories:
   - Project
+gallery:
+  - url: /assets/images/microbit_car/car.jpg
+    image_path: /assets/images/microbit_car/car.jpg
+    alt: "car"
+    title: "car"
+  - url: /assets/images/microbit_car/receive_microbit.jpg
+    image_path: /assets/images/microbit_car/receive_microbit.jpg
+    alt: "receiver_microbit"
+    title: "receiver_microbit"
+  - url: /assets/images/microbit_car/receive_microbit.jpg
+    image_path: /assets/images/microbit_car/receive_microbit.jpg
+    alt: "sender_microbit"
+    title: "sender_microbit"
 ---
 
 ## 개요
@@ -53,16 +66,4 @@ radio.setGroup(1)
 ```
 <br>
 ## 사진
-gallery:
-  - url: /assets/images/microbit_car/car.jpg
-    image_path: /assets/images/microbit_car/car.jpg
-    alt: "car"
-    title: "car"
-  - url: /assets/images/microbit_car/receive_microbit.jpg
-    image_path: /assets/images/microbit_car/receive_microbit.jpg
-    alt: "receiver_microbit"
-    title: "receiver_microbit"
-  - url: /assets/images/microbit_car/receive_microbit.jpg
-    image_path: /assets/images/microbit_car/receive_microbit.jpg
-    alt: "sender_microbit"
-    title: "sender_microbit"
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
